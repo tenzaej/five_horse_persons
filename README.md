@@ -1,5 +1,8 @@
 # Web Flash Cards 
 
+## Preamble - About This Assignment...
+This was a very early group assignment, meant to put into practice what we had learned about ActiveRecord and relational databases, routing and basic CRUD functionality with Ruby using Sinatra (not Rails), as well as account creation, login, password security, and so on. Our five-person group paired for everything, which is why not all members are listed as having commits. This was also one of our first forays utilizing an agile workflow, with vertical slices, standups, and so on. Not the most serious assignment, but it was an important stepping stone in developing into junior web developers.
+
 ## Summary
 We're going to create a web-based flash card application.  Our application will present users with decks of flash cards.  Users will select a deck and play a round of flash cards.
 
